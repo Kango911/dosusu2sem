@@ -1,6 +1,6 @@
 # K9: Практическое задание 4 - Временные ряды (авиапассажиры)
 # K9: Студент: Липенков Александр ПИШ-212
-# K9: Среда: PyCharm Professional / Google Colab, Python 3.12
+# K9: Среда: PyCharm Professional, Python 3.12
 
 import pandas as pd
 import numpy as np
